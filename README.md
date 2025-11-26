@@ -1,1 +1,3 @@
 # CODTECH-Internship-task-3
+
+This task builds a machine learning model to predict breast cancer as benign or malignant based on certain medical features of breast tissue using patient diagnostic data. The data is preprocessed and used to train a classification model(logistic regression), which is then deployed using FastAPI. The API allows users to send input values and receive predictions in real time. Ngrok is used to generate a public URL so the model can be tested directly from Google Colab. This task demonstrates how ML can be applied to support early cancer detection in a simple and practical way.
